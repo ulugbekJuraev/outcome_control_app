@@ -1,4 +1,4 @@
-# hive_test
+# outcomes_app
 
 A new Flutter project.
 
